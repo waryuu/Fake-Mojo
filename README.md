@@ -26,5 +26,5 @@ git clone [https://github.com/waryuu/Fake-Mojo.git](https://github.com/waryuu/Fa
 # Navigate to the folder
 cd Fake-Mojo
 
-# Open main.html in your browser (example for macOS)
-open main.html
+# Open index.html in your browser
+open index.html
