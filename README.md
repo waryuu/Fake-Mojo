@@ -17,7 +17,7 @@ Fake-Mojo is a UI/UX exploration project. It demonstrates the use of semantic HT
 Since this is a static front-end project, you don't need any complex installation.
 
 ### 1. Direct Open
-Simply clone the repository and open the `main.html` file in your preferred browser:
+Simply clone the repository and open the `index.html` file in your preferred browser:
 
 ```bash
 # Clone the repository
