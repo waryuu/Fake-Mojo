@@ -21,7 +21,7 @@ Simply clone the repository and open the `index.html` file in your preferred bro
 
 ```bash
 # Clone the repository
-git clone [https://github.com/waryuu/Fake-Mojo.git](https://github.com/waryuu/Fake-Mojo.git)
+git clone https://github.com/waryuu/Fake-Mojo.git
 
 # Navigate to the folder
 cd Fake-Mojo
